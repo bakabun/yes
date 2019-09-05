@@ -22,8 +22,8 @@ A clear and concise description of what you expected to happen.
 
 **Environment:**
  - OS: [e.g. Linux 4.19.69]
- - Browser [e.g. Python, Java]
- - Version [e.g. 3.7.4]
+ - Language: [e.g. Python, Java]
+ - Interpreter/Compiler Version: [e.g. 3.7.4]
 
 **Additional context**
 Add any other context about the problem here.
