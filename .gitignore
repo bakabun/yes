@@ -1,0 +1,6 @@
+*.exe
+*.class
+a.out
+.vscode
+.classpath
+.settings
